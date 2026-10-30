@@ -1,0 +1,38 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials/
+
+# Local lab data and evidence
+evidence/
+private-evidence/
+uploads/
+*.sqlite
+*.db
+*.sql
+*.dump
+*.bak
+*.log
+
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Virtual machine and container state
+*.vdi
+*.vbox
+*.vbox-prev
+*.qcow2
+docker-data/
+volumes/
