@@ -13,7 +13,7 @@ Use this file to record verified learning progress. Do not report an installatio
 - Course repository and initial materials: verified.
 - Learner environment reported: Ubuntu, 16 GB RAM, Docker installed, VirtualBox installed.
 - Local lab deployment: not yet verified in this course record.
-- Module 01: planned.
+- Module 01: in progress; Lesson 01 committed, local lab not yet verified.
 
 ## Progress log
 
@@ -21,7 +21,7 @@ Use this file to record verified learning progress. Do not report an installatio
 |---|---|---|---|
 | 2026-10-30 | Repository and course structure | Verified | Initial public course materials committed |
 | 2026-10-30 | Ubuntu/Docker lab | Planned | Awaiting command output |
-| 2026-10-30 | Module 01 | Planned | Begin with fundamentals |
+| 2026-10-30 | Module 01 — Lesson 01 | In progress | Practical lesson committed; Ubuntu/Docker checks and local lab await learner verification |
 
 ## Lab verification checklist
 - [ ] Ubuntu version and architecture recorded.
