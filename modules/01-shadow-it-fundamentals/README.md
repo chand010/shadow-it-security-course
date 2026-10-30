@@ -67,5 +67,9 @@ Write a one-page summary containing a definition, three drivers, five court-rele
 4. Why are unknown MFA and sharing settings evidence gaps?
 5. Name two controls that help manage access after an employee leaves.
 
+## Practical lesson
+
+Start with [Lesson 01 — Shadow IT Fundamentals and Safe First Discovery](LESSON-01.md). It includes a local Ubuntu/Docker inventory, a loopback-only disposable Nginx simulation, a fictional SaaS inventory exercise, evidence guidance and a knowledge check.
+
 ## Completion record
-Status: Planned. Mark verified only after executing the exercise and reviewing findings.
+Status: In progress. Mark verified only after executing the exercise, confirming cleanup and reviewing findings.
