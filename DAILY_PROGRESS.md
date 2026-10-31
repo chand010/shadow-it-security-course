@@ -34,3 +34,11 @@ Use this file to record verified learning progress. Do not report an installatio
 
 ## Session update format
 Record date, module, objective, commands/actions, expected result, actual result, sanitized evidence location, problems and next action. Never put tokens, passwords, personal data or internal infrastructure details in this public repository.
+
+
+## 2026-10-31 update
+- Module 02 — Lesson 02 materials: published to GitHub; content verified by commit response.
+- Lesson 02 local tool check: not yet run.
+- Synthetic discovery parser: not yet run.
+- Evidence register and knowledge check: pending learner work.
+- Module 01 local lab: remains unverified; no learner command output received.
