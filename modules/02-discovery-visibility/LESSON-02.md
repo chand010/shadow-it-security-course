@@ -115,15 +115,15 @@ Check which tools are already present; do not install anything just to complete 
 ~~~
 for tool in python3 jq wireshark tshark zeek wazuh-agent; do
   if command -v "$tool" >/dev/null 2>&1; then
-    printf '%-14s %s\\n' "$tool" "available"
+    printf '%-14s %s\n' "$tool" "available"
   else
-    printf '%-14s %s\\n' "$tool" "not installed"
+    printf '%-14s %s\n' "$tool" "not installed"
   fi
 done
 
 date -Is
 free -h
-docker ps --format 'table {{.Names}}\\t{{.Image}}\\t{{.Status}}'
+docker ps --format 'table {{.Names}}\t{{.Image}}\t{{.Status}}'
 ~~~
 
 Keep any host-specific output private. Do not publish IP addresses, hostnames, usernames, MAC addresses, raw logs or screenshots that expose unrelated services.
