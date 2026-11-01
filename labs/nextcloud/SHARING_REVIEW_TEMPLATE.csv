@@ -1,0 +1,3 @@
+evidence_id,timestamp_with_timezone,synthetic_file,classification,owner,share_type,recipient_scope,permissions,password_required,expiry_enforced,resharing_allowed,public_upload_allowed,controlled_test_result,audit_reference,limitation,next_action,status
+E-001,2026-11-01T00:00:00Z,Case_2026_DEMO.txt,Confidential - synthetic,records01,group,court-readers,read-only,not-applicable,not-applicable,no,no,not-tested,not-collected,Lab not yet executed,Verify group membership and access,Planned
+E-002,2026-11-01T00:00:00Z,Case_2026_DEMO.txt,Confidential - synthetic,records01,public-link,anyone-with-link,read-only,no,no,no,no,not-tested,not-collected,Lab not yet executed,Run loopback-only test and revoke link,Planned
